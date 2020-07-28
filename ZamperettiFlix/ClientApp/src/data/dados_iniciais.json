@@ -1,0 +1,129 @@
+{
+  "categorias": [
+    {
+      "titulo": "Fabio Akita",
+      "cor": "#6BD1FF",
+      "videos": [
+        {
+          "titulo": "Esqueça Metodologias Ágeis",
+          "url": "https://www.youtube.com/watch?v=xjjX3R2WuoM"
+        },
+        {
+          "titulo": "10 Mitos sobre Tech Startups | Parte 1",
+          "url": "https://www.youtube.com/watch?v=jkHnPxsiyGk"
+        },
+        {
+          "titulo": "10 Mitos sobre Tech Startups | Parte 2 ",
+          "url": "https://www.youtube.com/watch?v=C0v8e-yej6s"
+        },
+        {
+          "titulo": "A Bolha de Startups vai Estourar?",
+          "url": "https://www.youtube.com/watch?v=wpPv1dJWjDs"
+        },
+        {
+          "titulo": "Performance, anti-patterns e stacks pra desenvolver e-commerce, com cases reais",
+          "url": "https://www.youtube.com/watch?v=a2GElG2yDq4"
+        },
+        {
+          "titulo": "O que eu devo estudar? Vou conseguir emprego?",
+          "url": "https://www.youtube.com/watch?v=Ll1uAZ-WRa0"
+        }       
+      ]
+    },
+    {
+      "titulo": "Canal dotNet",
+      "cor": "#00C86F",
+      "link_extra": {
+        "url": "https://www.youtube.com/channel/UCIahKJr2Q50Sprk5ztPGnVg"
+      },
+      "videos": [
+        {
+          "titulo": "Blazor: criando uma aplicação na prática!",
+          "url": "https://www.youtube.com/watch?v=eivXzt2VPeI"
+        },
+        {
+          "titulo": ".NET Core e ASP.NET Core: Dicas e Truques",
+          "url": "https://www.youtube.com/watch?v=vKUnQe3i_HI"
+        },
+        {
+          "titulo": "Kubernetes: indo além do tecniquês",
+          "url": "https://www.youtube.com/watch?v=JTwO7lUcfd0"
+        },
+        {
+          "titulo": "Web API, gRPC, AMQP: o que e quando usar?",
+          "url": "https://www.youtube.com/watch?v=NeYRyW3l5-0"
+        }
+      ]
+    },
+    {
+      "titulo": "Código Fonte TV",
+      "cor": "#9cd33b",
+      "videos": [
+        {
+          "titulo": "DDD (Domain-Driven Design)",
+          "url": "https://www.youtube.com/watch?v=GE6asEjTFv8"
+        },
+        {
+          "titulo": "O que é Data Science?",
+          "url": "https://www.youtube.com/watch?v=z75lsYOBjB0"
+        },
+        {
+          "titulo": "IoT (Internet das Coisas)",
+          "url": "https://www.youtube.com/watch?v=qNHydTYkfcg"
+        },
+        {
+          "titulo": "React Native",
+          "url": "https://www.youtube.com/watch?v=mqltv3kFdgE"
+        }
+      ]
+    },
+    {
+      "titulo": "DevMedia",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "10 ERROS que programadores iniciantes cometem",
+          "url": "https://www.youtube.com/watch?v=9Qmj9tbGFf8"
+        },
+        {
+          "titulo": "PYTHON EM 6 MINUTOS",
+          "url": "https://www.youtube.com/watch?v=ZEsQGh3OOoo"
+        },
+        {
+          "titulo": "JAVASCRIPT EM 6 MINUTOS",
+          "url": "https://www.youtube.com/watch?v=Fu6p9TidKZc"
+        },
+        {
+          "titulo": "AS MAIORES GAMBIARRAS do mundo da PROGRAMAÇÃO!",
+          "url": "https://www.youtube.com/watch?v=Hv4rm7NucZo"
+        }
+      ]
+    },
+    {
+      "titulo": "Alura Cursos Online",
+      "cor": "#6b5be2",
+      "videos": [
+        {
+          "titulo": "O que é o C#?",
+          "url": "https://www.youtube.com/watch?v=0JWMVc1CqpA"
+        },
+        {
+          "titulo": "Saiba tudo sobre uma das linguagens de programação mais populares do mundo",
+          "url": "https://www.youtube.com/watch?v=eUl0mWTnL_A"
+        },
+        {
+          "titulo": "Criando sua primeira aplicação .NET Core no Linux ",
+          "url": "https://www.youtube.com/watch?v=UZQqXPuKr1s"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
