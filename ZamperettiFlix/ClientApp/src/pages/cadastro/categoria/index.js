@@ -1,7 +1,8 @@
-﻿import React, { useState } from 'react';
+﻿import React, { useState, useEffect } from 'react';
 import PageDefault from '../../../components/PageDefault';
 import { Link } from 'react-router-dom';
 import FormField from '../../../components/FormField';
+import Button from '../../../components/Button'
 
 function CadastroCategoria() {
     const [categoria, setCategorias] = useState([]);
@@ -26,6 +27,22 @@ function CadastroCategoria() {
         );
     }
 
+    useEffect(() => {
+        if(window.location.href.includes('localhost')) {
+          const URL = 'https://localhost:3000/categorias'; 
+          fetch(URL)
+           .then(async (respostaDoServer) =>{
+               console.log(respostaDoServer);
+            if(respostaDoServer.ok) {
+              const resposta = await respostaDoServer.json();
+              setCategorias(resposta);
+              return; 
+            }
+            throw new Error('Não foi possível pegar os dados');
+           })
+        }    
+      }, []);
+
     return (
         <PageDefault>
             <h1>Cadastro de Categoria: {valores.nome}</h1>
@@ -38,7 +55,7 @@ function CadastroCategoria() {
                 ])
             }}>
                 <FormField
-                    label="Nome da Categoria"
+                    label="Nome da Categoria2"
                     value={valores.nome}
                     name="nome"
                     type="text"
@@ -58,9 +75,9 @@ function CadastroCategoria() {
                     type="color"
                     onChange={handleChange}
                 />
-                <button>
+                <Button>
                     Cadastrar
-                 </button>
+                 </Button>
             </form>
 
             <ul>

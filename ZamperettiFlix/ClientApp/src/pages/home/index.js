@@ -13,7 +13,7 @@ function Home() {
             <BannerMain
                 videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
                 url={dadosIniciais.categorias[0].videos[0].url}
-                videoDescription={"O recado é muito simples: não existe bala de prata. Agilidade não são processos, metodologias, nem a miríade de numerologia e astrologia que assola este mercado. É hora de recuperar um pouco da essência original do mundo da Agilidade."}
+                videoDescription={"O recado ï¿½ muito simples: nï¿½o existe bala de prata. Agilidade nï¿½o sï¿½o processos, metodologias, nem a mirï¿½ade de numerologia e astrologia que assola este mercado. ï¿½ hora de recuperar um pouco da essï¿½ncia original do mundo da Agilidade."}
             />
 
             <Carousel
