@@ -1,0 +1,144 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Fabio Akita",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      }
+    },
+    {
+      "id": 2,
+      "titulo": "Canal dotNet",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      }
+    },
+    {
+      "id": 3,
+      "titulo": "DevMedia",
+      "cor": "orange",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      }
+    },
+    {
+      "id": 4,
+      "titulo": "Código Fonte TV",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "Esqueça Metodologias Ágeis",
+      "url": "https://www.youtube.com/watch?v=xjjX3R2WuoM"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "10 Mitos sobre Tech Startups | Parte 1",
+      "url": "https://www.youtube.com/watch?v=jkHnPxsiyGk"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "10 Mitos sobre Tech Startups | Parte 2 ",
+      "url": "https://www.youtube.com/watch?v=C0v8e-yej6s"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "A Bolha de Startups vai Estourar?",
+      "url": "https://www.youtube.com/watch?v=wpPv1dJWjDs"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "O que eu devo estudar? Vou conseguir emprego?",
+      "url": "https://www.youtube.com/watch?v=Ll1uAZ-WRa0"
+    },
+    {
+      "id": 6,
+      "categoriaId": 2,
+      "titulo": "Blazor: criando uma aplicação na prática!",
+      "url": "https://www.youtube.com/watch?v=eivXzt2VPeI"
+    },
+    {
+      "id": 7,
+      "categoriaId": 2,
+      "titulo": ".NET Core e ASP.NET Core: Dicas e Truques",
+      "url": "https://www.youtube.com/watch?v=vKUnQe3i_HI"
+    },
+    {
+      "id": 8,
+      "categoriaId": 2,
+      "titulo": "Kubernetes: indo além do tecniquês",
+      "url": "https://www.youtube.com/watch?v=JTwO7lUcfd0"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "Web API, gRPC, AMQP: o que e quando usar?",
+      "url": "https://www.youtube.com/watch?v=NeYRyW3l5-0"
+    },
+    {
+      "id": 10,
+      "categoriaId": 3,
+      "titulo": "10 ERROS que programadores iniciantes cometem",
+      "url": "https://www.youtube.com/watch?v=9Qmj9tbGFf8"
+    },
+    {
+      "id": 11,
+      "categoriaId": 3,
+      "titulo": "PYTHON EM 6 MINUTOS",
+      "url": "https://www.youtube.com/watch?v=ZEsQGh3OOoo"
+    },
+    {
+      "id": 12,
+      "categoriaId": 3,
+      "titulo": "JAVASCRIPT EM 6 MINUTOS",
+      "url": "https://www.youtube.com/watch?v=Fu6p9TidKZc"
+    },
+    {
+      "id": 12,
+      "categoriaId": 3,
+      "titulo": "AS MAIORES GAMBIARRAS do mundo da PROGRAMAÇÃO!",
+      "url": "https://www.youtube.com/watch?v=Hv4rm7NucZo"
+    },
+    {
+      "id": 13,
+      "categoriaId": 4,
+      "titulo": "DDD (Domain-Driven Design)",
+      "url": "https://www.youtube.com/watch?v=GE6asEjTFv8"
+    },
+    {
+      "id": 14,
+      "categoriaId": 4,
+      "titulo": "O que é Data Science?",
+      "url": "https://www.youtube.com/watch?v=z75lsYOBjB0"
+    },
+    {
+      "id": 15,
+      "categoriaId": 4,
+      "titulo": "O que eu devo estudar? Vou conseguir emprego?",
+      "url": "https://www.youtube.com/watch?v=Ll1uAZ-WRa0"
+    },
+    {
+      "id": 16,
+      "categoriaId": 4,
+      "titulo": "IoT (Internet das Coisas)",
+      "url": "https://www.youtube.com/watch?v=qNHydTYkfcg"
+    }
+  ]
+}
