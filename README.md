@@ -11,7 +11,7 @@
 
 ## Como rodar o projeto?
 
-Após baixar o projeto, abra com visual studio, e no console de Gerenciados de Pacotes rode:
+Após baixar o projeto, abra com visual studio, e no console de Gerenciador de Pacotes rode:
 
 ```sh
 cd ZamperettiFlix\ClientApp\
