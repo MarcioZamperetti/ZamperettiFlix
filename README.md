@@ -9,5 +9,14 @@
 > Projeto construido durante a [Imersão React da Alura](https://www.alura.com.br/imersao-react/)
 
 
+## Como rodar o projeto?
+
+Após baixar o projeto, abra com visual studio, e no console de Gerenciador de Pacotes rode:
+
+```sh
+cd ZamperettiFlix\ClientApp\
+npm run server
+```
+
 ## License/Licença do Projeto
 [MIT License](./LICENSE)
