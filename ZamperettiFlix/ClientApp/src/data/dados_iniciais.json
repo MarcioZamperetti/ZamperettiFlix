@@ -33,9 +33,6 @@
     {
       "titulo": "Canal dotNet",
       "cor": "#00C86F",
-      "link_extra": {
-        "url": "https://www.youtube.com/channel/UCIahKJr2Q50Sprk5ztPGnVg"
-      },
       "videos": [
         {
           "titulo": "Blazor: criando uma aplicação na prática!",

@@ -20,7 +20,7 @@ function Home() {
 
   return (
     <PageDefault paddingAll={0}>
-      {dadosIniciais.length === 0 && (<div>Loading...</div>)}
+      {dadosIniciais.length === 0 && (<div><h1>Carregando...</h1>   Servidor Off? tente abrir a home via json no botão acima</div>)}
 
       {dadosIniciais.map((categoria, indice) => {
         if (indice === 0) {

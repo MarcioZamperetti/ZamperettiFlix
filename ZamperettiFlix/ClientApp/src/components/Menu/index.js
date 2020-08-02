@@ -12,6 +12,10 @@ function Menu() {
                 <img className="Logo" src={Logo} alt="ZamperettiFlix logo" />
             </Link>
 
+            <Button as={Link} className="ButtonLink" to="/inicio">
+                Inicio via Json
+               </Button>
+
             <Button as={Link} className="ButtonLink" to="/cadastro/video">
                 Novo vídeo
       </Button>
